@@ -1,0 +1,8 @@
+{
+  "name": "Krishi Mitra AI",
+  "description": "An AI-powered agricultural advisory web application for small and marginal farmers. It provides real-time, location-specific crop advice, pest/disease detection via image uploads, weather-based alerts, and market price information in multiple languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
